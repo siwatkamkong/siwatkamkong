@@ -3,27 +3,11 @@
 🔗 my portfolio:  
 https://your-portfolio-link.com
 
----
+🎓 I'm 
 
-🎓 I'm a final-year Computer Engineering student passionate about:
-- Infrastructure
-- Networking
-- Automation
-
----
-
-💼 Internship Experience:
-- National Telecom (NT)
-
-📚 Currently Learning:
-- Advanced DevOps
-
-🏆 Badges:
-- AWS Cloud Foundations
-- CCNA Intro
-- LFS101
-
----
+💼 Internship Experience: National Telecom (NT)
+  
+🏆 Badges: AWS Cloud Foundation,CCNA Intro,FS101
 
 ## 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
